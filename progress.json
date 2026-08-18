@@ -239,50 +239,5 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1787037793.197917,
-    "completed_at": 1787037796.464293,
-    "comments": [
-      "No commits were made in the 'sleep-line' branch."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1787037884.863157,
-    "completed_at": 1787037887.965445,
-    "comments": [
-      "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1787037944.200205,
-    "completed_at": 1787037947.499888,
-    "comments": [
-      "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1787038019.654843,
-    "completed_at": 1787038022.709373,
-    "comments": [
-      "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1787038065.507475,
-    "completed_at": 1787038068.620727,
-    "comments": [
-      "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
-    ],
-    "status": "Incomplete"
   }
 ]
